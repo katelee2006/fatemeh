@@ -1,12 +1,5 @@
 ﻿using System;
 
-namespace fatemehzare
-{
-    internal class Customer
-    {
-    }
-}
-
 Customer.cs
 public class Customer
 {
