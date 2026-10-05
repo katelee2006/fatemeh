@@ -1,11 +1,5 @@
 ﻿using System;
 
-namespace fatemehzare
-{
-    internal class Dog
-    {
-    }
-}
 Dog.cs
 public class Dog
 {
