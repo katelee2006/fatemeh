@@ -1,11 +1,5 @@
 ﻿using System;
 
-namespace fatemehzare
-{
-    internal class Rectangle
-    {
-    }
-}
 Rectangle.cs
 public class Rectangle
 {
