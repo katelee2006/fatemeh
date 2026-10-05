@@ -1,11 +1,5 @@
 ﻿using System;
 
-namespace fatemehzare
-{
-    internal class Employee
-    {
-    }
-}
 Employee.cs
 public class Employee
 {
