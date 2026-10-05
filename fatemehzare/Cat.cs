@@ -1,12 +1,5 @@
 ﻿using System;
 
-
-namespace fatemehzare
-{
-    internal class Cat
-    {
-    }
-}
 Cat.cs
 public class Cat
 {
