@@ -1,11 +1,5 @@
 ﻿using System;
 
-namespace fatemehzare
-{
-    internal class Square
-    {
-    }
-}
 Square.cs
 public class Square
 {
